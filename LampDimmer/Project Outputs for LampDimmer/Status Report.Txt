@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LampDimmer.PrjPcb]
+   Generated File[PCB_LampDimmer.TXT]
+   Generated File[PCB_LampDimmer.LDP]
+   Generated File[PCB_LampDimmer.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At ¤W¤È 03:16:11 On 2015/11/10
